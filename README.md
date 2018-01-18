@@ -63,3 +63,9 @@ CustomLog ${APACHE_LOG_DIR}/access.log combined
 9) Installed and configured PostgreSQL with user catalog.
 
 10) Updated OAuth authorzied JavaScript origins on Google and Facebook developer dashboards. 
+
+11) Helpful Resources:
+The Udacity Fullstack forum was immensly helpful, too many posts to list. 
+DigitalOcean: https://www.digitalocean.com/community/tutorials/how-to-deploy-a-flask-application-on-an-ubuntu-vps
+
+http://flask.pocoo.org/docs/0.10/deploying/mod_wsgi/#working-with-virtual-environments
