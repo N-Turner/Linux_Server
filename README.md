@@ -12,8 +12,6 @@ IP address: 54.201.195.77
 
 Accessible SSH port: 2200
 
-Password for grader: udacity
-
 ## Key steps and software installed
 1) Created an encryption key called udacity_key.rsa
 2) Changed owner from root to grader and disabled SSH login from root user. 
